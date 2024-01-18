@@ -1,7 +1,7 @@
 package practica6SWING;
 /**
  * practica6SWINGa5
- * @author Marcos Rojas
+ * @author Alder Riquelme
  * 
  * 
 */

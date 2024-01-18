@@ -1,7 +1,7 @@
 //programa que suma y Multiplica numero
 /**
  * practica5
- * @author Marcos Rojas
+ * @author Alder Riquelme
  * 
  * 
 */

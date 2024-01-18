@@ -5,7 +5,7 @@ import java.awt.event.ActionListener;
 
 
 /**
- * @author Marcos Rojas
+ * @author Alder Riquelme
  */
 class Calculadora implements ActionListener {
     double numero, respuesta;

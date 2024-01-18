@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * practica5
- * @author Marcos Rojas
+ * @author Alder Riquelme
  * 
  * 
 */

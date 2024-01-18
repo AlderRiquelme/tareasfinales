@@ -1,7 +1,7 @@
 package practica4;
 /**
  * practica5
- * @author Marcos Rojas
+ * @author Alder Riquelme
  * 
  * 
 */

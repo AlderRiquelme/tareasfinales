@@ -10,7 +10,7 @@ import javax.swing.JRadioButton;
 
 /**
  *
- * @author Marcos Rojas
+ * @author Alder Riquelme
  */
 public class frmEncuesta extends javax.swing.JFrame {
 
